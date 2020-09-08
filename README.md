@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # earth_news
 
 World's News Application
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# eArthNews
+News App built on Flutter
+>>>>>>> 74c9738a90dcb91b188d69d39d887aaebdd48703
